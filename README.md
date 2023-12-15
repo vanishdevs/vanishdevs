@@ -4,11 +4,11 @@ I'm a passionate programmer specializing in Lua, with experience in various othe
 
 ## 🌐 Technologies & Languages
 
-- **Lua:** My primary focus and specialization. 🌟
-- **CSS, HTML, JavaScript (JS):** Proficient in web development technologies. 💻
-- **C++:** Strong foundation in C++ programming. 🚀
-- **Python (Py):** Versatile language for various applications. 🐍
-- **Python Turtle:** Creative coding and graphics using the Turtle module. 🎨
+- **Lua:** Specialized and focused expertise.
+- **CSS, HTML, JavaScript (JS):** Proficient in web development technologies.
+- **C++:** Strong foundation in C++ programming.
+- **Python (Py):** Versatile language for various applications.
+- **Python Turtle:** Creative coding and graphics using the Turtle module.
 
 ## 📈 GitHub Stats
 
