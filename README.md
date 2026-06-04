@@ -13,13 +13,15 @@
 
 ### whoami
 
-    vanish · FiveM developer · general dev at heart
-
-    builds   open source FiveM scripts and tools
-    lua      game logic, client and server
-    react    game interfaces (NUI)
-
-Most of what I build ends up here, free to use and learn from.
+```lua
+local vanish = {
+  role   = "FiveM developer",
+  builds = "open source scripts & tools",
+  lua    = { "game logic", "client + server" },
+  react  = "in-game interfaces (NUI)",
+  open   = true, -- free to use and learn from
+}
+```
 
 ### Stack
 
@@ -27,10 +29,9 @@ Most of what I build ends up here, free to use and learn from.
 
 ### Stats
 
-<!-- swap github-readme-stats.vercel.app for your own Vercel domain once deployed -->
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vanishdevs&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=vanishdevs&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=vanishdevs&theme=tokyonight&hide_border=true" />
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanishdevs&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
