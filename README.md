@@ -28,26 +28,15 @@ local vanish = {
   <img src="https://skillicons.dev/icons?i=lua,react,ts,js,html,css,cpp,py,nodejs,vite,git&perline=11" alt="Lua, React, TypeScript, JavaScript, HTML, CSS, C++, Python, Node.js, Vite, Git" />
 </p>
 
-### Stats
+### GitHub
 
 <p align="center">
-  <img
-    height="165"
-    alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=vanishdevs&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&cache_seconds=86400"
-  />
-  <img
-    height="165"
-    alt="GitHub streak"
-    src="https://streak-stats.demolab.com?user=vanishdevs&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanishdevs&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=86400"
-  />
+  <a href="https://github.com/vanishdevs?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-open%20source-8b5cf6?style=flat&logo=github&logoColor=white" alt="Open source repos" />
+  </a>
+  <a href="https://github.com/vanishdevs">
+    <img src="https://img.shields.io/badge/GitHub-vanishdevs-181717?style=flat&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
 </p>
 
 ### Reach me
